@@ -5,7 +5,7 @@
 
 # [PEMBERITAHUAN SEBELUM MENGGUNAKAN HOSTS]
 # Untuk Wi-Fi / Provider (ISP) yang memakai Inspeksi Paket Dalam (DPI), harap gunakan BebasIT / BebasID IT sebelum menggunakan hosts kami
-# Ciri-ciri ISP menggunakan DPI: 
+# Ciri-ciri ISP menggunakan DPI:
 # - "lamanlabuh.aduankonten.id": Mengeluarkan halaman yang dialihkan jika menggunakan Protokol HTTP
 # - Sedangkan "ERR_CONNECTION_RESET / PR_CONNECT_RESET_ERROR": Mengeluarkan halaman yang dialihkan jika menggunakan Protokol HTTPS
 # Lihat penjelasan lengkap tentang DPI sebagai berikut: https://github.com/bebasid/bebasdns/blob/main/dev/readme/learnmore.md
@@ -20234,8 +20234,8 @@
 
 
 # [buttondown.email]
-75.101.184.39 buttondown.email	
-54.221.251.148 www.buttondown.email	
+75.101.184.39 buttondown.email
+54.221.251.148 www.buttondown.email
 3.226.182.14 api.buttondown.email
 
 # [duckduckgo.com]
@@ -20503,6 +20503,7 @@
 52.149.246.39 shop.duckduckgo.com
 52.149.246.39 blog.duckduckgo.com
 52.149.246.39 news.duckduckgo.com
+40.114.178.124 icons.duckduckgo.com
 40.88.50.215 jve.duckduckgo.com
 20.99.229.0 dbp.duckduckgo.com
 52.149.246.39 api.duckduckgo.com
